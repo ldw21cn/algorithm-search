@@ -1,0 +1,17 @@
+{
+    "name": "suyan/algorithm-search",
+    "authors": [
+        {
+            "name": "Su Yan",
+            "email": "suyan0830@gmail.com"
+        }
+    ],
+    "require": {
+        "sunra/php-simple-html-dom-parser": "v1.5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Search\\": "libs/"
+        }
+    }
+}
